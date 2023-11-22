@@ -1,3 +1,3 @@
 # BelajarGit
-![gambar](Screenshot(75).png)
+![gambar](Screenshot_(75).png)
 
